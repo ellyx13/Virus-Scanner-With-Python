@@ -8,6 +8,9 @@ This is a simple Python Virus scanner using Virus Total API and PySimpleGUI inte
 # Setup
 1. Login to [VirusTotal](https://www.virustotal.com/gui/sign-in) and get the API key.
 2. Clone this repository to your PC:
+```
+git clone https://github.com/ellyx13/Virus-Scanner-With-Python.git
+```
 3. In virus_Scanner.py, define a variable called API_KEY and set its value to your VirusTotal API key: 
 
 ```
